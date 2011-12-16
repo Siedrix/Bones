@@ -1,0 +1,10 @@
+{
+  "name"            : "Bones",
+  "description"     : "Where all my javascript libraries libraries start",
+  "url"             : "http://siedrix.com",
+  "keywords"        : ["Bones", "Boilerplate"],
+  "author"          : "Daniel '@Siedrix' Zavala",
+  "contributors"    : [],
+  "dependencies"    : { "vows": "" },
+  "version"         : "0.0.1"
+}
